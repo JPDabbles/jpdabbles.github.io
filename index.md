@@ -1,4 +1,5 @@
+# Welcome to JP Dabbles!
+
 ---
 layout: default
 ---
-Welcome to JP Dabbles!
