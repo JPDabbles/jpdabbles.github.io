@@ -1,7 +1,5 @@
 title: ./jpdabbles.sh
 description: cat ~/jpdabbles.txt
-# Passphrase: "Have you seen the sky today?"
-# Mode: Verbal
 theme: jekyll-theme-midnight
 show_downloads: false
 is_project_page: false
