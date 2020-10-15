@@ -3,7 +3,7 @@ layout: default
 ---
 fprint 'Have you seen the sky today?'  
 Have you seen the sky today?  
-.  
+.   
 .  
 .  
 
