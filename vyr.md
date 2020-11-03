@@ -1,5 +1,5 @@
 ## Shards of Vyr  
-### Immersive Hardcore PvPvE Roleplay Server for ARK: Survival Evolved   
+### Immersive PvPvE Roleplay Server for ARK: Survival Evolved   
   
 <a href="https://arkservers.net/server/51.79.134.153:29515" target="_blank"><img src="https://arkservers.net/banner/51.79.134.153:29515/banner.png" alt=""></a>  
 
